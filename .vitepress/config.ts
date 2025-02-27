@@ -8,7 +8,7 @@ export default defineConfig({
     title: '克喵 blog',
     base: '/',
     cacheDir: './node_modules/vitepress_cache',
-    description: 'vitepress,blog,资源分享,软件',
+    description: 'vitepress,blog,资源分享,软件,网址,教程',
     ignoreDeadLinks: true,
     themeConfig: {
         posts: await getPosts(pageSize),
