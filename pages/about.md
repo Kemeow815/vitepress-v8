@@ -9,9 +9,9 @@ aside: false
 
 ---
 
--   👋 Hi, I'm [ your name ]
--   🚀️ I'm currently working as [ your position ]
--   📮️ How to reach me: [your Github](https://github.com)
+-   👋 Hi, I'm 克喵Kemeow.
+-   🚀️ I'm currently working as a student.
+-   📮️ How to reach me: [your Github](https://github.com/Kemeow815)
 -   📖 My motto: [ your motto ]
 
 ---
