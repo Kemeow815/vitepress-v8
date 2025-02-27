@@ -22,7 +22,7 @@ Markdown 速查表提供了所有 **Markdown**
 
 | 元素 | Markdown 语法 |
 |----|----|
-| 标题（Heading） | \# H1 一级标题</br> \## H2 二级标题</br> \### H3 三级标题 |
+| 标题（Heading） | \# H1 一级标题<br> \## H2 二级标题<br> \### H3 三级标题 |
 | 粗体（Bold） | \*\*bold text\*\* |
 | 斜体（Italic） | \*italicized text\* |
 | 引用块（Blockquote） | \> blockquote |
@@ -40,11 +40,11 @@ Markdown 速查表提供了所有 **Markdown**
 
 | 元素 | Markdown 语法 |
 |:--:|:---|
-| 表格（Table） | `\| Syntax \| Description \|`</br>`\| -----------  \|  -----------  \|`</br>`\| Header  \|  Title  \|`</br>`\| Paragraph \| Text \|` |
-| 代码块（Fenced Code Block） | ```` ``` ````</br>`{`<br>`"firstName": "John",`</br>`"lastName": "Smith",`</br>`"age": 25`</br>`}`</br>```` ``` ```` |
-| [脚注（Footnote）](https://markdown.com.cn/extended-syntax/footnotes.html) | Here’s a sentence with a footnote. `[^1]`</br>`[^1]`: This is the footnote. |
+| 表格（Table） | `\| Syntax \| Description \|`<br>`\| -----------  \|  -----------  \|`<br>`\| Header  \|  Title  \|`<br>`\| Paragraph \| Text \|` |
+| 代码块（Fenced Code Block） | ```` ``` ````<br>`{`<br>`"firstName": "John",`<br>`"lastName": "Smith",`<br>`"age": 25`<br>`}`<br>```` ``` ```` |
+| [脚注（Footnote）](https://markdown.com.cn/extended-syntax/footnotes.html) | Here’s a sentence with a footnote. `[^1]`<br>`[^1]`: This is the footnote. |
 | [标题编号（Heading ID）](https://markdown.com.cn/extended-syntax/heading-ids.html) | \### My Great Heading {#custom-id} |
 | [定义列表（Definition List）](https://markdown.com.cn/extended-syntax/definition-lists.html) | term</br>: definition |
-| [任务列表（Task List）](https://markdown.com.cn/extended-syntax/task-lists.html) | `- [x] Write the press release`</br>`- [ ] Update the website`</br>`- [ ] Contact the media` |
+| [任务列表（Task List）](https://markdown.com.cn/extended-syntax/task-lists.html) | `- [x] Write the press release`<br>`- [ ] Update the website`<br>`- [ ] Contact the media` |
 
 <Comment />
